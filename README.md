@@ -19,7 +19,7 @@
 
 1. Aumentar/diminuir o recuo → mude o RecoilMode para "Low", "High", "Ultra" ou coloque "Custom" e ajuste o CustomStrength.
 
-2.Quer compensação horizontal? Mude HorizontalStrength = 0 para 2 ou -2 (positivo = direita, negativo = esquerda).
+2. Quer compensação horizontal? Mude HorizontalStrength = 0 para 2 ou -2 (positivo = direita, negativo = esquerda).
 
 3. Quer sempre ativo (sem precisar de CapsLock)? Mude RequireToggle = false.
 
